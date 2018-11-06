@@ -1,0 +1,6 @@
+1. webkit
+2. read doc
+* open documentation: shift+cmd+0
+3. auto layout
+   embed; align; update frame
+4. add icon; app name; target iOS
